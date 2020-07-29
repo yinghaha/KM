@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace KM
 {
-    static class WindowsKM
+    static class Km
     {
         const int MOUSEEVENTF_MOVE = 0x0001;                //移动鼠标
         const int MOUSEEVENTF_LEFTDOWN = 0x0002;            //模拟鼠标左键按下
@@ -24,7 +24,7 @@ namespace KM
         public static extern void keybd_event(Keys bVk, byte bScan, uint dwFlags, uint dwExtraInfo);
         private static Random ran;
 
-        static WindowsKM()
+        static Km()
         {
             int nowTime = DateTime.Now.Millisecond;
             ran = new Random(nowTime);

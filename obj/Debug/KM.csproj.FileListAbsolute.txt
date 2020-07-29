@@ -1,0 +1,12 @@
+F:\KM_Git\KM\obj\Debug\KM.Form1.resources
+F:\KM_Git\KM\obj\Debug\KM.Properties.Resources.resources
+F:\KM_Git\KM\obj\Debug\KM.csproj.GenerateResource.cache
+F:\KM_Git\KM\obj\Debug\KM.csproj.CoreCompileInputs.cache
+F:\KM_Git\KM\bin\Debug\KM.exe.manifest
+F:\KM_Git\KM\bin\Debug\KM.application
+F:\KM_Git\KM\bin\Debug\KM.exe
+F:\KM_Git\KM\bin\Debug\KM.pdb
+F:\KM_Git\KM\obj\Debug\KM.exe.manifest
+F:\KM_Git\KM\obj\Debug\KM.application
+F:\KM_Git\KM\obj\Debug\KM.exe
+F:\KM_Git\KM\obj\Debug\KM.pdb

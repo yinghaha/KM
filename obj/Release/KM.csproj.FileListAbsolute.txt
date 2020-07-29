@@ -1,0 +1,12 @@
+F:\KM_Git\KM\bin\Release\KM.exe.manifest
+F:\KM_Git\KM\bin\Release\KM.application
+F:\KM_Git\KM\bin\Release\KM.exe
+F:\KM_Git\KM\bin\Release\KM.pdb
+F:\KM_Git\KM\obj\Release\KM.Form1.resources
+F:\KM_Git\KM\obj\Release\KM.Properties.Resources.resources
+F:\KM_Git\KM\obj\Release\KM.csproj.GenerateResource.cache
+F:\KM_Git\KM\obj\Release\KM.csproj.CoreCompileInputs.cache
+F:\KM_Git\KM\obj\Release\KM.exe.manifest
+F:\KM_Git\KM\obj\Release\KM.application
+F:\KM_Git\KM\obj\Release\KM.exe
+F:\KM_Git\KM\obj\Release\KM.pdb
