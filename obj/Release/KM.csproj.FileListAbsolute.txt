@@ -10,3 +10,4 @@ F:\KM_Git\KM\obj\Release\KM.exe.manifest
 F:\KM_Git\KM\obj\Release\KM.application
 F:\KM_Git\KM\obj\Release\KM.exe
 F:\KM_Git\KM\obj\Release\KM.pdb
+F:\KM_Git\KM\obj\Release\KM.csprojAssemblyReference.cache
